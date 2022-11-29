@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Фоторедактор FED</string>
+    <string name="label_brush">Brush</string>
+
+    <string name="thumbnail">Миниатюра</string>
+    <string name="editing">Редактирование</string>
+    <string name="filter_name">Название фильтра</string>
+    <string name="brightness">Яркость</string>
+    <string name="contrast">Контрастность</string>
+    <string name="saturation">Насыщенность</string>
+    <string name="back">Назад</string>
+    <string name="about_app">Мобильное приложение для редактирования изображений
+        \nФоторедактор FED</string>
+    <string name="fed">ФЭД</string>
+    <string name="get_photo">Выберите фотографию</string>
+    <string name="camera">Камера</string>
+    <string name="gallery">Галлерея</string>
+    <string name="or">или</string>
+    <string name="about">О программе</string>
+    <string name="tips">Советы</string>
+    <string name="tip_fst">Если программа "подтормаживает" при изменении параметров или фильтров,
+        сохраните оригинал изображения и откройте его копию</string>
+    <string name="tip_sec">Для того, чтобы применить фильтр к изображению с изменёнными параметрами,
+        нажмите на фильтр один раз</string>
+    <string name="tip_thrd">Для того, чтобы применить фильтр к оригинальному изображению, нажмите
+        на фильтр два раза</string>
+    <string name="tip_frth">Для того, чтобы закрыть фрагмент редактирования, повторно нажмите на
+        соответствующий пункт меню</string>
+    <string name="tip_fifth">При запуске программы открывается тестовое изображение.
+        Чтобы редактированить своё изображение, выберите пунтк меню "Галерея"</string>
+    <string name="tip_sixth">При открытии меню редактирования изображения с помощью кисти, выставлены
+        значения по умолчанию, не соответствующие значениям в "ползунках". Чтобы их изменить,
+        перетащите один из соответствующих ползунков</string>
+    <string name="tip_seventh">Чтобы скрыть окно редактирования, повторно нажмите на данный
+        пункт меню</string>
+    <string name="brush_size">Размер кисти</string>
+    <string name="opacity">Непрозрачность</string>
+    <string name="brush">Кисть</string>
+    <string name="eraser">Ластик</string>
+    <string name="add_your_text">Введите свой текст</string>
+    <string name="done">Готово</string>
+</resources>
